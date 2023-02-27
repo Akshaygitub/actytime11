@@ -4,3 +4,5 @@ driver.find element.id
 driver.find element.name
 driver.find element.class
 driver.find element.tagname
+driver.manage().window().maximize();
+driver.manage().timeouts().impliciwait(dusration.of seconds(10);
