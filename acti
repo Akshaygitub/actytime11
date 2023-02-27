@@ -4,7 +4,3 @@ driver.find element.id
 driver.find element.name
 driver.find element.class
 driver.find element.tagname
-driver.find element.linktext
-driver.find element.partiallintest
-driver.find element.css
-driver.find element.xpath
