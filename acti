@@ -7,3 +7,4 @@ driver.find element.tagname
 driver.manage().window().maximize();
 driver.manage().timeouts().impliciwait(dusration.of seconds(10);
 added new
+driver.findelement
